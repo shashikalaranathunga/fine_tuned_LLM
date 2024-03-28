@@ -1,0 +1,873 @@
+Document Heading,Document Url,Document Content,Document Images,Document Videos
+Introduction to Tracified,https://help.tracified.com/docs/intro,"Introduction to Tracified
+What is Tracified#
+
+Tracified powered by Blockchain technology facilitates a tamper proof platform that streamlines the data flow within a supply chain, introducing a novel crypto-economic model based on a reward/penalty concept, ensuring fair distribution of gains across the chain. The originality of the solution is further enhanced by its ability to get customized to suit the needs of a business.
+
+A blockchain based platform that adds the crucial element ‘trust’ to traceability information. This applies to any buyer – seller scenario that occurs in a supply chain (not only the end-consumer). Trust is achieved by 3 pillars in tracified.1) blockchain based direct proofs 2) web of trust 3) security deposits by improving trust, tracified enables smarter purchasing decisions from the buyers side while making it possible for sellers who sell genuinely high quality products to prove their value.
+
+WHAT IS INCLUDED IN THE TRACIFIED PRODUCT LINE?
+
+Tracified Web Portals - Tracified Admin Portal, Tracified Configs Portal, Tracified Insights Portal
+
+Tracified Mobile Applications - Tracified Field Officer Application, Tracified Consumer Application, Tracified Wallet Application
+
+Terms used within Tracified#
+Workflow#
+
+The series of stages included in a given supply chain
+
+Stage#
+
+Specific point or a period identified in a supply chain
+
+Artifacts / Master data#
+
+Static data which will be fed into the system. These data will not change throughout the entire supply chain.
+
+Stage Data / Tracking Data#
+
+Live data which will be collected for each stage of the supply chain with use of iOT devices or through manual inputs. These data will be collected through one of our mobile applications; the Tracified Field Officer Application
+
+TDP - Traceability Data Packets#
+
+The traceability information which you can see in Tracified Insights Portal with related to one stage can be identified as a Traceability Product Line
+
+Change of Custody (CoC)#
+
+Moving a item from one organization to another organization within the a particular supply chain
+
+Consignor - the party who creates the CoC request
+
+Consignee - the party who receives the CoC request made
+
+Batch ID#
+
+A unique identifier given to identify each batch of the supply chain
+
+Ex: Agri domain - Tomatoes001, Apples_123 | Apparel domain - CB001, WD123
+
+Traceability Data#
+
+The process of mapping and showing the entire journey of the product manufactured from raw materials to finished goods.
+
+Consumer-map#
+
+The map shown to the end consumer, which contains all the specific locations through which the product went through during different stages of the supply chain.
+
+Geo-locations#
+
+The locations identified through GPS or IP addresses, to track the product journey
+
+Geotagged photos#
+
+A photo which is associated with a specific location and is linked with a geotag. These images can be uploaded from the Tracified Field Office",[],"[{""media_type"": ""Video"", ""title"": ""Introduction to Tracified"", ""watch_url"": ""https://www.youtube.com/watch?v=d4WY6D_LkVg"", ""embed_url"": ""https://www.youtube.com/embed/d4WY6D_LkVg""}]"
+Getting Started,https://help.tracified.com/docs/gettingStarted,"Getting Started
+
+There are two types of users which can subscribe to Tracified;
+
+Ecommerce Users - Users who already own a shopify or woocommerce shop.
+Non Ecommerce Users - Users who are entirely new and who don’t own a shopify or woocommerce shop.
+
+Ecommerce Users can install the Tracified plugin from the Shopify Appstore and can subscribe to the Tracified Services through the billing page.
+
+Once the appropriate tier is selected, the user can proceed by clicking on the ‘Get Started’ button.
+
+Then he/she will be redirected to the sign up page of Tracified.","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/shopify1-f971810e167a7921e169b85a65df48b2.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/shopify2-0245dc47947f1bd1928b8d82fdf83ca4.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/shopify3-47e3e248a1b0367b4ee33fa3504baa8b.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Shopify App - Shopify Appstore,https://help.tracified.com/docs/ShopifyUserSetup/ShopifyAppstore,"Shopify Appstore
+
+Once you visit the Shopify App Store, you can search for the Tracified plugin by just typing ‘Tracified’ in the search bar. Then theTracified plugin will appear in the related search results.
+
+Choose the Tracified plugin You can go through the details about the Tracified plugin to get it connected with your shopify business. You can also see information about the pricing plans available.
+
+Click on ‘Add App’ to install the plugin.
+
+Insert the link of your shopify webshop to get connected.","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/Shopify-1-96b57d88bbd4b1fe326c2e89dae66e0b.png"", ""title"": ""Shopify AppStore""}]",[]
+Tracified Shopify App - Getting Started with Tracified,https://help.tracified.com/docs/ShopifyUserSetup/ShopifyGetStart,"Getting Started with Tracified
+
+In the Home page,
+
+You can find the information related to the pricing plans and on how Tracified works.
+
+This tab will take you to link your Shopify Webshop with Tracified.
+
+You can match and connect your products with Tracified items when you click on the ‘Go to Mapping Page’
+
+The Tracified widget which is an image representation of Traceability Data, can be added to you webshop through Tracified.
+
+The Billing Tab of the screen shows and differentiates the pricing plans available for Tracified plugin in shopify.
+
+You can go through the pricing plans and the offered features and select the plan you desire to proceed with Tracified.
+
+You can also trace and match your products with Tracified Items. You can get directed to the Tracified Admin Portal through the button on the top right corner of the screen. Then you can connect your products with already defined Tracified items.
+
+You can now configure Tracified and get connected to your Shopify store with our plugin. We have provided a detailed video of steps of configuration.","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/Shopify-2-f4574b2031b0e9bc0b6483b2f41d03c6.png"", ""title"": ""Shopify AppStore""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/Shopify-3-3127c92add2baf42a669183be386ec87.png"", ""title"": ""Shopify AppStore""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/Shopify-4-927f2bdcc84380a74884ec3e51bcb303.png"", ""title"": ""Shopify AppStore""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/Shopify-5-31e570da20acf643e767aeb2b4d359ff.png"", ""title"": ""Shopify AppStore""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/billing-ba62e5a386cc4884726580695ade09bb.PNG"", ""title"": ""Shopify AppStore""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/mappings-8752497c5ad0998454284033f0358c65.PNG"", ""title"": ""Shopify AppStore""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/configure-a79671d5e64d011894dd432ceeb03ccb.PNG"", ""title"": ""Shopify AppStore""}]",[]
+Tracified Shopify App - Adding Tracified widget to your store,https://help.tracified.com/docs/ShopifyUserSetup/TracifiedWidget,"Adding Tracified widget to your store
+Steps to add Tracified widget#
+Login to your shop Admin panel.
+Click the online store in the left side menu bar.
+Click Actions.
+Click Edit code.
+Click Sections in the left side menu bar.
+Click Add a new section.
+Type “tracified-pos” as your file name and click done.
+Copy the below code snippet and paste in to “tracified-pos.liquid” class
+<!-- begin tracified.liquid -->
+
+
+{% assign shopName = shop.permanent_domain %}
+{% assign productId = product.id %}
+
+
+{%comment%}Tracified logo {%endcomment%}
+
+
+<!-- This plugin is used to resize the iframe whenever the inner HTML page changes,
+ A seperate plugin must be included inside the source page as well -->
+<script src=""https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.min.js""></script>
+<style>iframe{width: 1px;min-width: 100%;padding-left: 10%;padding-right: 10%;}</style>
+<iframe id=""tracifiedIframe"" src=""https://pos.tracified.com/pos/{{shopName}}/{{productId}}"" width=""100%""></iframe>
+<script>iFrameResize({log:true}, '#tracifiedIframe')</script>
+
+
+<!-- end tracified.liquid -->
+Copy
+Click Templates in the left side menu bar.
+Click the product.json in the left side bar.
+Add below code snippet to “sections” object.
+""tracified-pos"": {
+      ""type"": ""tracified-pos"",
+      ""settings"": {
+      }
+ }
+Copy
+Add ""tracified-pos"" to order array
+If you have done it correctly you’ll able to see the Tracified widget in your webshop products page as in the below image","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/TracifiedWidget-a7a4e3a9b83d8e38e9312b5318236efc.png"", ""title"": ""Shopify Widget""}]",[]
+Accounts and Settings - How to create accounts,https://help.tracified.com/docs/Accounts_and_Settings/createAccount,"How to create accounts
+
+User account creation in Tracified is a simple and a user friendly process. As the first step after subscribing, users should be able to create blockchain accounts through the Tracified Admin Portal.
+
+Creation of both Blockchain accounts and Tracified Accounts can be done here. User has to fill in all the input fields correctly in both company details and account details sections. The Company Name should be a valid name, Address should be correct and they cannot be kept empty. Once the user selects the country, the system will automatically populate the country code in the contact number field. The user can then fill in the remaining digits accurately.
+
+In the “Account Details” section, the user should select the relevant domain, insert a valid email address, type a username and define a password that is strong enough. Once all the fields are correctly filled, the user has to tick off the checkbox to accept the Tracified Terms and Conditions. Then the user should click on the ‘Next’ button to proceed using Tracified.","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/createaccount-680ba8d600db16b53c58ff05a3257313.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Accounts and Settings - Account and profile setting,https://help.tracified.com/docs/Accounts_and_Settings/Account%20and%20profile%20setting,"Account and profile setting
+
+Account and Profile settings can be changed through the Tracified Admin Portal. Users can change the password by adding the current password for security purposes, and also by adding the new password and retyping it to confirm.","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/account2-0c3c2ceff77624df70aeae0056032b10.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/account1-7751a6deb1b64cfc6c659543afcbdf7c.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Accounts and Settings - Billing and payments,https://help.tracified.com/docs/Accounts_and_Settings/Billing%20and%20payments,"Billing and payments
+Subscribing to Tracified#
+WHAT ARE THE PREREQUISITES TO SUBSCRIBE TO TRACIFIED?
+You should own a Shopify webshop
+SHOULD HAVE PRODUCTS?
+The first and foremost step in getting started with Tracified is installing the Tracified plugin through the Shopify App Store. You will have to visit the Shopify App Store, search for Tracified, select the app, and then click on the ‘install’ button. Then the Tracified plugin will be installed within no time.
+Then you will be directed to the ‘Pricing Plan’ of Tracified, which elaborates each pricing plan along with the functionalities and features they offer. You can select the plan you want to continue with and then click on ‘Confirm’ to continue. Then the subscription will be approved and the payment should be confirmed.
+Once the subscription is completed, you will be navigated to the ‘Admin Portal’ of Tracified. You will receive an automatically generated Subscription ID and a confirmation email will be sent to the registered email address. Then you will have to fill in the signup form including the details of the account and business.
+
+SignUp-Tracified Admin Login-Tracified Admin",[],[]
+Tracified Admin - Getting Started,https://help.tracified.com/docs/TracifiedAdmin/SignUP,"Getting Started
+
+Tracified-Items Artifacts Ecom Lastmile-Token
+
+The Admin Portal of Tracified is responsible for the management of users, accounts, Tracified items, artifact details, shop tokens, reports, certificates and generating QR codes.
+
+Sign Up#
+
+The sign up process for the Admin Portal involves a simple procedure, where the user needs to enter the required details. The company details should be provided as per the organization and account details should be filled by selecting the domain monitored by the organization and by providing a valid email address and a reliable password. Once all the pertinent fields are filled accurately and the ‘Terms and Conditions’ are accepted, the user will be successfully signed up as an administrator to Tracified.
+
+Login#
+
+A user who has already registered, can log in to the portal, providing either their username or email address along with the correct password.
+
+If the password is forgotten, the user can reset it, through the ‘get help’ option.
+
+The user should enter either username or the used email address and once confirmed, a password reset link will be sent to the appropriate email. Then he/she can set a new password and continue using the portal.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/Picture1-f5953a1f2e2618693be1ab87f858d10e.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/adminlogin-e739c8b77644f3c4d983ae339c7ec5db.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/forgotpw-aa3ea8b407cc31de3b24be1e0c945d02.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - Dashboard,https://help.tracified.com/docs/TracifiedAdmin/dashborad,"Dashboard
+
+Tracified-Configs Tracified-Insights
+
+After a successful login, the main dashboard will be displayed. The login history and the activity log can be viewed using this interface. All the past logins from each account, the time and date as well as the record of activities done from each account will be displayed here
+
+Admin portal also notifies and updates the logged in user about any activity and lets the user know that something new has happened, so they don’t miss anything that might be worth paying attention to.
+
+The menu at the top right corner of the UI is a collapsible dropdown, which consists of direct links to other web portals of Tracified, user account setting and also the option to logout from the account.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/dash1-576cfac00d3a34a10fb62c1eb1e4e8c0.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/dash2-dba83551585c3074c881a511b77706e7.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/dash3-54dd503919eb551913cc7ecec6af27e8.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - User Management,https://help.tracified.com/docs/TracifiedAdmin/userMangement,"User Management
+
+Getting Started Authorization
+
+All the user details related to the logged in user will be displayed through this.
+
+A new user can be added by filling all the fields and once the Add User button is clicked, the new user will be added.
+
+Existing user details can be viewed through the user icon in the action column. The user details can be edited or deleted using the edit and delete icons in the action column. The user behaviour for the past logged days can be viewed through the overview of each user. The device remembrance records details about the devices, user used to log in. Each user account can be disabled through the ‘Disable User’ button.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/dash4-084d68263088d8840bd515e3d7d217ba.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/dash5-25c904d487f40d1667eaa4004d6a771b.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/dash6-9c9d61bd67ec4b8fdc912ed53e510987.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - Ecom token,https://help.tracified.com/docs/TracifiedAdmin/Ecom,"Ecom token
+
+Tracified-Items Lastmile-Token
+
+The shopify webshop and the Tracified account can be connected by providing the shop URL. The shop URL can be obtained from your shopify account and once it is correctly inserted and submitted, the plugin will be configured by generating a key and it will enable the POS traceability.
+
+✅ Getting the token and applying that to the shopify web shop
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/ecom-2e06db52ef6bc802b4f82de788c14cd1.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - Artifact details,https://help.tracified.com/docs/TracifiedAdmin/artifactDetails,"Artifact details
+
+Tracified Configs- Artifacats Field Officer App- Master Data
+
+Master Data are referred to as Artifacts in Tracified. Artifacts can be created here, as per the requirement. New artifact templates can be defined through the ‘New Template’ button.
+
+An appropriate artifact name can be used here and then new artifact attributes should also be added as required.
+
+Make sure, at least one attribute is defined for each artifact and many field names can be defined here as per the requirement.
+
+Once all the data is added and saved, the template will be successfully created and an alert will show up, notifying the user the successful completion of the action performed.
+
+Already created and saved artifact templates can also be viewed, in order to know how and what should be done in creating the artifacts.
+
+✅ If they are appropriate, they can be used to proceed, instead of creating new artifacts
+
+Previously created and saved templates can be used to proceed, instead of creating new artifacts, if they are appropriate. Artifacts can also be deleted if they are inappropriate or not in use anymore. Once the delete alert is confirmed, the selected artifact will be completely deleted and will no longer be available to use.
+
+Once an artifact is selected to be used, the list of already saved records(refed as master Data) will be published. You can add new records by clicking on the ‘+ New Record’ button and all text fields must be filled in order to save the record successfully. Tracified Admin Portal also allows uploading a CSV file in the given format, and once it is correctly uploaded, the artifact will be saved automatically.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/artifact1-0de605643d5de245178a89f4fafebdf8.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/artifact2-45af6a6c96d20396e917f443365adc8e.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/artifact3-89371c4a597874bd2c349f6e7aa8348a.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/artifact4-92aa4cbab9a18bc4476f9da08459973b.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/artifact5-65ba35fc666e73a60726e171ca3e8316.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/artifact6-5d23e3eb8e96daa2716f2f4e9bc5d30e.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/artifcat7-5a8e143422f8e43e1f6264d3e5ccbfb6.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - Tracified Items,https://help.tracified.com/docs/TracifiedAdmin/tracifiedItems,"Tracified Items
+
+Field officer App- UpdateMasterData
+
+Items available in the Tracified record systems can be viewed through the ""Tracified Items"" page. It contains the item ID, item name and the stages which are included in the supply process of each item.
+
+New items can be added to the system through the “+ New Item” button. The new items can be given new names and the required stages can be selected through the toggle buttons and can be saved successfully.
+
+Existing items can be edited or deleted; but only the Item Name and the stages can be changed and updated.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/trcItems1-3157fed11554be0f9f25d73a57c265e3.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/trcItems2-c4996de4c7aed77016dda80c611186d5.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - Last mile shop token,https://help.tracified.com/docs/TracifiedAdmin/LastmileToken,"Last mile shop token
+
+Tracified account and the Shopify Lastmile App can be connected together to enable its functionality. Shop URL should be entered in order to generate a temporary token to configure the plugin.
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/lastmile1-fad7d26ec8964c0ec1ce3a6ee471a2a8.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - Reports,https://help.tracified.com/docs/TracifiedAdmin/reports,"Reports
+
+Different types of system generated reports are available, which can be obtained based on the requirement. Reports types include; Quantity of Production, Exported Production, Consumer Review, Test specifications, Efficiency of Production, Processed Quantity, Harvested Farm Size, Farmer Rating, Overall Rating, Farm Certification etc. Reports can be obtained by selecting the product(s) within a selected date range .
+
+A preview of the generated report will be displayed at the bottom section of the page, while it will also be available to downloaded as a PDF file.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/reports1-21b125be30a91e5a8d23b3555406c766.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - Certificates,https://help.tracified.com/docs/TracifiedAdmin/certificates,"Certificates
+
+Tracified Admin- Authorization Field Officer App- Certifications
+
+✅ Authorized certifications will be provided.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/certificates1-035f5b0bfe86ca776a02b0e9db339a18.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - Authorization,https://help.tracified.com/docs/TracifiedAdmin/authorization,"Authorization
+
+Certifications
+
+Certificate Name, Stage ID, Remaining and Total Quantities, Status of the certificate, Validity duration of the certificate can be viewed through this.
+
+New certificates can be issued, by clicking on the ‘New Certificate’ button.
+
+The date ranges from which date the certificate is issued and to which date the certificate will be valid, should be selected, then the relevant template ID should be selected from the pre-defined templates, the total quantity of the product should be entered and any description about the certificate to be issued can also be added. Once all the fields are correctly filled, and clicked on the ‘Issue Certificate’ button, all data will be successfully saved and the certificate will be issued.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/auth1-848b495fbdbd8ceaded2f3b0010d89d4.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/auth2-558c0057ebb9823a393379c19d912ce3.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Admin - QR generator,https://help.tracified.com/docs/TracifiedAdmin/QRGen,"QR generator
+Any number of distinct QR codes can be created through Tracified, with a maximum of 150 QR codes and they can be used for the products / items as required.
+
+You can fill in the fields of the above screen as per your requirement.
+
+You can define a distinct code to your products, add your Company Name, also any content or description if needed to make each QR Code a unique one.
+
+Then you can define the number of QR codes needed, in the last field and can get them generated by clicking on the ‘Generate’ button.
+
+How does the product code work?#
+
+The product code will be a unique code embedded in each QR code.
+
+Segment 1 is a static prefix which can be used for all product codes. Segment 2 & 3 are numbered fields which can be incremented independently. (Segment 2 & 3 are optional)
+
+With the two buttons 'increment 1' & 'increment 2' , a user can specify whether the values of respective segments should be incremented according to the number of QRs needed
+
+Five unique QR Codes have been automatically generated through the system as per the requirement.
+These QR codes can be downloaded as a PDF by just clicking on the ‘Save as PDF’ button.
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/QR-1-046666ef222e855246cf51c0a2d5743d.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/QR-2-dcbf1219a6e33cc3b03d8a978c138122.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/QR-3-b76502363f8a5dfb1889ed246dfe170d.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Insights - Intro,https://help.tracified.com/docs/TracifiedInsights/home,"Intro
+
+Tracified Admin- TracifiedItems Tracified Admin- Getting Started Recall Management
+
+Tracified Insights Portal is the platform where the registered users can observe traceability data, product reviews and consumer feedback and also to recall certain batches and items.
+
+Navigation Pane#
+
+The navigation pane on the left side of the screen contains all the functionalities that could be performed through the ‘Tracified Insights Portal’.
+
+Home#
+
+The landing page for the Tracified Insights Portal is the home page. The recorded Tracified Items will be displayed along with their appropriate stages.
+
+Reviews#
+
+Reviews and feedback received through the ‘Tracified Consumer App’ will be displayed through this screen.
+
+Recall management#
+
+Recalling a specific batch or an item can be done through this **
+
+Back to admin#
+
+When clicked on this option, it will navigate the user back to the admin portal of Tracified.
+
+User Menu#
+
+When clicked on the username at the top right corner of the screen, an expandable menu will be displayed.
+
+When clicked on the ‘Profile’ option, profile details will be displayed as follows.
+
+Selecting an Item#
+
+One a specific item is selected, it will be automatically redirected to the ‘Select Batch’ section, where you can choose the required batch to view traceability data. You can either search the batch by inserting the batch ID or date at the search field or either can directly click on the relevant batch from the display table below.
+
+Selecting a batch#
+
+Batch
+
+Once the batch is selected, all the recorded traceability data by the field officers for each stage of the supply chain will be visible in the admin panel.
+
+Viewing Traceability Data#
+
+Tracebility data
+
+This is a preview of the consumer view. You can also view the consumer perspective of the selected batch by clicking the ‘Consumer’ tab from the panel.
+
+You can swipe left to see the consumer preview or can just skip the slideshow and directly view.
+
+An entire overview of the product including its origin, its safety approved certifications, sustainable practices and how it supports the community can be viewed from each option.
+
+The map extracts and displays the geo locations of images that have been uploaded for each stage. The map can be zoomed in and out to view the locations.
+
+The timeline section depicts all traceability data of each and every stage of the supply chain process. You can scroll down to view all stages and their data, in a well concise and a transparent manner.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights-ba5de55689852a7c1690de0c9724060e.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights1-c03096624a6894e6c5b7464fd4d48e79.PNG"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights2-aeceb99b3e0f94dc24eb5f9158283298.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights3-86678e49a1622d0b7e54cfcfaf3f8d4e.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights4-4b98fe3f0ecfeb940668f16f4b38a090.PNG"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights5-362cb389df873e5b292448f71bf6281d.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights6-fae6c08ce55ad242e8296f8df4a2343c.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights7-1be01acd4b0e2a5fc842293ae4395667.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights8-9b4e66ac43e95797a6189cf1ed69dae9.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights9-7bacf7e416eed5ac5c5211db5a64cc5e.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Insights - Recall Management,https://help.tracified.com/docs/TracifiedInsights/RecallMan,"Recall Management
+
+User Management
+
+WHAT ARE PREREQUISITES FOR RECALL FUNCTIONALITY?
+
+When defining the ‘workflow’ there should be a final stage named ‘Recall Stage’
+
+HOW TO RECALL?
+
+Recall Management comprises four main functionalities.
+
+Recalls#
+
+Already recalled products will be displayed in the table grid along with the details such as Batch ID, recalled reason, stage and date and time of recall.
+
+Previously recalled batches can be searched by the recall name or filter the batches which have been recalled during a particular period of time through the date range filter option.
+
+Recalls can be notified through the yellow speaker icon at the last column of each recalled product.
+
+Recall Notices#
+
+Notices about each recalled product can be created here using the icon at the ‘Notify’ column.
+
+Once clicked on the icon, you will be shown a pop up window to add the recall notice.
+
+Then the Recall Title and Batch Identifier will be auto retrieved from the system and filled, only the required notice can be typed and saved. A meaningful notice should be created conveying the receivers about the recall and its gravity.
+
+Recalling a product#
+
+In order to recall the required product, you should select the item, its and it's batch as in “Selecting an item” and “Selecting a batch”. To recall the selected batch go to ‘View Traceability Data’ and click on the three dots.
+
+Click on the “Recall this batch” button.
+
+Then an alert will pop up, asking you to confirm the action. Make sure you are so certain about this action as it is serious and cannot be reversed.
+
+Once you click on the ‘Confirm’ button, you will get to fill a simple form including required details. If you don’t wish to proceed with this action of recalling, you can still choose the ‘Cancel’ option to terminate.
+
+If you continue recalling the batch, fill in the fields in white by adding an appropriate name for the recall and also by adding the reason for the recall (ex: damaged, perished etc). Fields in grey are disables and cannot be edited as those data are retrieved from the system automatically. Once you click on the ‘Recall’ button, the selected batch will be recalled and will be recorded as a called back item.
+
+A message will be displayed, saying the recall action was successful and the batch has automatically been transferred to the recall stage.
+
+The recalled batch will be shown in red in order to let you know that there is something wrong with the particular batch
+
+Recall Teams#
+
+Recall Teams can be assigned to lead the recalls. Recall teams will document all recall actions, including consumer, distributor, supplier and public communications in order to reduce the risk of recall. Any number of team members can be added to a team and those teams can be edited or deleted as per the requirement.
+
+Creating New Teams#
+
+New recall teams can be added by clicking on the “Create New Team” button.
+
+A meaningful and an identifiable team name should be given and the related recall should be selected to the team here. Each recall team should consist of at least one member and once all those fields are correctly filled, a team will be added and details will be saved successfully.
+
+Viewing the team members#
+
+Assigned team members of each team can be viewed through the yellow team button in the ‘Team Members’ column of the table.
+
+Editing a team#
+
+Select a team to be modified and only the number of members are allowed to be edited from a particular team. Once team members are changed or removed, and click on the “Update” button, the updated data will be saved successfully.
+
+Deleting a team#
+
+Select the team to be removed, and once confirmed the entire team will be permanently deleted from the system. Members of the team will not be removed from the system.
+
+Recall Tasks#
+
+Recall Tasks will be assigned to each recall team. The task name, description, created date and time, and the status of already recalled tasks, are displayed in the table. There are three states for recall tasks;
+
+Planned - The task is yet to be performed.
+In progress - The task is currently being worked on.
+Completed - The task has been completed successfully.
+
+The relevant state of each task should be chosen according to the current state.
+
+Recall Notices#
+
+Recall team members should send follow-up recall notices to customers, distributors, suppliers and other relevant authorities in order to minimize the risk of recall.
+
+Recall notices and their required information will be shown in the table.
+
+Recall notices should be sent from the ‘Notify’ option in the ‘Recall’ page.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights10-f6d9b3f494db524abf02230381c43bf1.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights11-fac871250aa78f99f78e087a3efd0181.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights12-751e32c60eaeffe47fa646233f3c5822.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights13-498341e01c467bae49ed83efdb8058f3.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights40-a9c6403d26b41b12af63d2e83ac29960.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights15-a7b1e42253cc5c1b1bcb7e285805c722.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights16-580808d61ff36f0d31dbf44efa46e597.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights17-0d58d914643cb92ad3a96979ac0f5294.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights18-b53e6a9fbdcec842fb1d8cf01e823b26.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights19-f38e3011dd8e3996cbd9f88c37cb3e07.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights20-074af8fc790f85455d0f9a598524217e.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights21-051808d9a58fbae02ad83d500f799a94.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights22-81506c0554fbf1a5ba69ec5fb858d5fa.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights23-b545db9c2a1b8e1751b3fa9ea4a90bb3.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/insights24-01bed274964212e04bcb5094f5b387f7.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Configs - Configure Tracified,https://help.tracified.com/docs/TracifiedConfigs/Intro,"Configure Tracified
+
+Tracified Admin- TracifiedItems Tracified Admin- Getting Started
+
+Tracified Configs Portal can be accessed via the Tracified Admin.
+
+Tracified configs will be where the configurations made by the users to augment the system to their supply chain. This includes storage of workflow and artifact configurations and Field Officer user interfaces. Tracified will allow the users to create their workflows through two options.
+
+1. Using sample workflow and artifact templates.
+
+
+2. Creating workflows manually.
+
+
+Copy
+
+Lets add the option auto generate or manual creation.
+
+When creating the workflows manually, artifacts should be defined first.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config22-e7417d9e759a3863f3241bac44cf0a59.PNG"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Configs - Artifacts,https://help.tracified.com/docs/TracifiedConfigs/artifacts,"Artifacts
+
+Entities are referred to as Artifacts in Tracified. (ex: Farmer, Farm, Processing Center, Plot etc)
+
+New artifact templates can be defined through the ‘New Template’ button.
+
+An appropriate artifact name can be used here and then new artifact attributes should also be added as required.
+
+Make sure, at least one field is defined for each artifact and you can have any number of fields defined here for an artifact as per the requirement.
+
+Once all the data is added and saved, the template will be successfully created and an alert will show up, notifying the user the successful completion of the action performed.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config2-726874673c5712daed912a457d5a8d45.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config3-198d86f41b75c310cd1a716e4e7c2b17.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Configs - Workflow,https://help.tracified.com/docs/TracifiedConfigs/workflow,"Workflow
+
+Workflow creation can be done for all stages of the supply chain through Tracified Configs Portal.
+
+You can add new stages to the process, as per your requirement, through the '+ Stage ' button. 
+
+Add a stage name press Enter
+
+Select the newly created stages and you can add relevant fields to a particular stages through the '+ Field' button.
+
+Enter an appropriate field name and press Enter.
+
+You can select the nature of the data as artifacts, list or single.
+
+If you want to have your users add data using artifacts, you can choose the artifact function.
+
+ 
+
+If you enable the ‘Required’ toggl button, filling the data fields will be mandatory.
+
+Select the Merger Function (recommended ‘Carry Forward’)
+
+If the list is selected, you can enter list items as you need, or even remove them while creating and also can select the required merge function.
+
+If you choose the ‘single’ option, it will let the field officer users enter the data type you configure here.
+
+
+
+
+
+
+
+Photo - this will enable the field officers to upload geo coded images.
+
+
+
+
+Date and Time - this option will enable field officers to pick the date and time.
+
+
+
+
+Number - this option will enable the field officers to enter numerical values.
+
+If you toggle the prefix and postfix, you can enter some text that should be available before or after the numerical value. (ex: it can be a measurement unit or a value that is common to all)
+
+
+
+
+Text - this option will enable the field officers to enter text
+
+Here also you can enable the prefix and postfix option.
+
+Once all these are correctly added, click on the ‘Publish’ button to get them added to the Workflow. (This may sometimes take a while as the whole Workflow process should be created within the system automatically)
+
+One or more fields can be merged together to make a group. Click on the ‘Next: Group’ button to create a new group for the added fields.
+
+Drag and drop the required fields to be grouped together to the dark grey box, and click on ‘Add to Group’ button. Then you will be asked to enter a suitable name for the new group. Enter a meaningful name and just click enter to make them grouped successfully.
+
+You can now publish the group by clicking on the ‘Publish’ button. Then you will see an alert saying the process was successfully completed.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config4-047a06101fcab8fda411e986fdde148a.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config5-1e1f48056de01296b7e5fd0fb072186e.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config6-3297c56e275d76fcaf760e94ce2d2c8a.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config7-a7b4f067f6e427f154632a81215fcaa0.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config8-bf71c6eb1afa09590441faa6a7530352.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config9-9697d8967897e5939c811b73fc0871ff.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config10-a2882eca504c86f1a98d787c41240ef5.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config11-46a12126ca705a69f9d1033f98eb1e34.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config13-6510864d1912f9f01b4e6f31f86de4e5.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config14-2f0bff0be3942504ab1de95a63425968.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config15-37309b926253ef714a145b3ed08a3828.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config15-37309b926253ef714a145b3ed08a3828.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config16-91ff44fc6705d78c2cc5e214278d1ebc.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config17-9eaeb98f5e08a13e8543a1d06cf0c9aa.png"", ""title"": ""MarineGEO circle logo""}, {""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config18-23c801805fc926df93e832277527f661.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Tracified Configs - Settings,https://help.tracified.com/docs/TracifiedConfigs/settings,"Settings
+
+Field Officer App -Home Field Officer App -Certifications Field Officer App -Special Operations
+
+General settings and Batch Input Settings can be managed and you will be able to see the existing settings here. You are allowed to modify the settings as per the requirement and once modified click on the ‘Update Settings’ button to save data successfully. Brand Logo and Description will appear in the navigation tab of the Tracified Field Officer App and Map, Farm name and the Certificate issued location will also be displayed in the relevant points in the app. Two options for the batch input have been provided; to scan or add the batch manually or to add the stage to view all the batches in that particular stage. You can switch on either of the toggle buttons or even enable both to make the functionalities available.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://help.tracified.com/assets/images/config18-23c801805fc926df93e832277527f661.png"", ""title"": ""MarineGEO circle logo""}]",[]
+Consumer App - Intro,https://help.tracified.com/docs/Consumer/Intro,"Intro
+
+Tracified Consumer App can be downloaded from the Google play store or Apple app store through the following links.
+
+Google Play Store - https://play.google.com/store/apps/details?id=com.tracified.app.customer&hl=en&gl=US
+
+Apple App Store - https://apps.apple.com/lk/app/tracified/id1563877961
+
+Tracified Consumer App can be used by consumers in order to view the traceability data during each and every stage of the supply chain process, to view the origin, safety, sustainability, and communities supported, and to rate products.
+
+Once logged in successfully, it will be asked to scan the QR code on the product.
+
+All the details of the scanned product including the stages and all relevant information can be found here.
+
+Is this page useful?",[],[]
+Consumer App - Overview,https://help.tracified.com/docs/Consumer/overview,"Overview
+
+Certification Artifcats
+
+Four collapsible cards are published in order to retrieve and display information about the nature and safety of the product, sustainability practices followed and the communities which were involved in the process.
+
+Freshness card	The ‘Freshness’card includes information about the harvested date, picked date and about how freshness maintained throughout the supply chain process.
+Food Safety card 	The ‘Food Safety’ card comprises information about various food safety measures taken during the supply chain process.
+Sustainability card 	The ‘Sustainability’ card depicts information about the best sustainable practices followed during each and every [stage](../intro#stage) of the supply chain, in order to imp rove the continuity of supply and to reduce environmental impact.
+Community card 	The ‘Community’ card illustrates information about how the product purchased by the consumer, will affect the community in aspects of improving standard of living, providing economic growth and in opening more job opportunities for the society.","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/f2PfFjZ/con2.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/NmPdzzd/con3.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/PjNs8K6/con0.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/P6B6P2h/con5.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/M54kXDH/con6.png"", ""title"": """"}]",[]
+Consumer App - Map,https://help.tracified.com/docs/Consumer/map,"Map
+
+Field Officer App -Add data
+
+A zoomable map is displayed which will extract the geo-locations of the images that have been uploaded for each stage of the supply chain.
+
+If there are any geotagged photos of a certain product of a product supply chain, those locations will be displayed","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/ysjXZVJ/con7.jpg"", ""title"": """"}]",[]
+Consumer App - Timeline,https://help.tracified.com/docs/Consumer/timeline,"Timeline
+
+Field Officer App -Add data
+
+The Series of stages through which the product went through during its lifecycle, along with the required information per stage will be displayed here.",[],[]
+Consumer App - Review,https://help.tracified.com/docs/Consumer/review,"Review
+
+With this UI Consumers can provide ratings product according to their preference
+
+The added ratings and comments will be displayed on the screen as above.","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/GpJFNW8/con9.jpg"", ""title"": """"}]",[]
+Consumer App - Scanned History,https://help.tracified.com/docs/Consumer/history,"Scanned History
+
+The history of the products scanned recently through the app can be viewed here. When clicked on the ‘View’ button, overall descriptions of the products will be displayed.","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/Pm53hw2/con10.jpg"", ""title"": """"}]",[]
+Field Officer App - Intro,https://help.tracified.com/docs/FOapp/Intro,"Intro
+
+Tracified Admin- User Management
+
+Tracified Field Officer App can be downloaded from the Google play store or Apple app store through the following links.
+
+Google Play Store - https://play.google.com/store/apps/details?id=com.tracified.app.officer
+
+Apple App Store - https://apps.apple.com/lk/app/tracified-field-officer/id1549877752
+
+Tracified Field Officer App is the most prominently used portal to enter traceability data to the system.
+
+Use the credentials used when creating the Tracified Accounts to log into the application. Once logged in successfully, you will be able to carry out all the available functionalities.
+
+ 
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/dM7ptft/fo1.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/wsnBsQL/fo2.jpg"", ""title"": """"}]",[]
+Field Officer App - Home,https://help.tracified.com/docs/FOapp/home,"Home
+
+Tracified Configs- Settings
+
+Enter a batch ID or scan the QR code, to proceed adding data to the system. You will be able to do four major functionalities;
+
+Adding data, Stage transferring, Splitting batches and Connecting batches.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/zsS6M6M/fo3.jpg"", ""title"": """"}]",[]
+Field Officer App - Add Data,https://help.tracified.com/docs/FOapp/AddData,"Add Data
+
+Tap on the ‘Add’ option to add traceability data to the system.
+
+  
+
+Once all the data related to the particular stage is filled and an image related to each stage is uploaded, click on the submit button to save the added data.
+
+You will be asked to confirm adding data or to cancel in order to terminate the action.
+
+Once clicked on the ‘Submit’ button, you will be asked to enter the transaction password.
+
+Enter the provided transaction password and click on ‘OK’ to successfully add data to the system.","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/hRcn2G2/fo4.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/Bz0Z9X0/fo5.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/LdJLyTL/fo6.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/1nkbn3X/fo7.jpg"", ""title"": """"}]",[]
+Field Officer App - Transfer,https://help.tracified.com/docs/FOapp/transfer,"Transfer
+
+Click on the ‘transfer’ option to transfer stages of the supply chain process. Select the stage to which the product should be transferred and select the particular product and click on the ‘Transfer Stage’ button.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/74WkNyg/fo8.jpg"", ""title"": """"}]",[]
+Field Officer App - Split / Merge,https://help.tracified.com/docs/FOapp/split,"Split / Merge
+
+Click on the ‘Split’ option to split a particular batch into two separate batches.
+
+Type the ID or scan the QR code and then select the product and tap on the ‘Release Parent ID’ radio button (if needed) and tap on ‘Split’ button.
+
+This will split the selected batch into two separate batches.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/HGrnVrJ/fo9.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/4Rj8F0J/fo10.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/Vxmm4G4/fo11.jpg"", ""title"": """"}]",[]
+Field Officer App - Connect,https://help.tracified.com/docs/FOapp/connnect,"Connect
+
+This connect option allows you to merge two batches together. Click on the ‘Connect’ option
+
+Type or scan the ID and then a new ID will be generated. Then select the other product that needs to be connected and click on ‘Connect ID’. There onwards the new ID will be used to proceed in transactions.
+
+ 
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/HGrnVrJ/fo9.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/VNKkdms/fo14.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/927L4Fg/fo15.jpg"", ""title"": """"}]",[]
+Field Officer App - History,https://help.tracified.com/docs/FOapp/history,"History
+
+This will display the details of the recent transactions which took place such as the item name, current stage, added date and related identifiers.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/1Qk5x8x/fo16.jpg"", ""title"": """"}]",[]
+Field Officer App - Sync,https://help.tracified.com/docs/FOapp/Sync,"Sync
+
+Locally stored data can be synced with the Tracified FO App, only if available.
+
+ 
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/bRY6PhQ/fo34.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/PZG8tHH/fo35.jpg"", ""title"": """"}]",[]
+Field Officer App - About,https://help.tracified.com/docs/FOapp/about,"About
+
+This showcases the current version of the application and any updates if available.
+
+ 
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/1GRyy0w/fo18.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/NTbn521/fo19.jpg"", ""title"": """"}]",[]
+Field Officer App - Settings,https://help.tracified.com/docs/FOapp/settings,"Settings
+
+UserProfile Settings can be changed through this screen. Name of the user can be changed and a new password can be created here.
+
+The transaction password can also be changed as per the requirement.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/8KStq9B/fo17.jpg"", ""title"": """"}]",[]
+Field Officer App - Certifications,https://help.tracified.com/docs/FOapp/certificates,"Certifications
+
+Tracified Admin- Authorization Certifications
+
+Certifications can be issued here according to the requirement.
+
+ 
+
+Certifications can be issued through the Tracified Officer App, by selecting a template which is created through the ‘Tracified Configs Portal’. The validity date period of each certificate should be selected and then the quantity of the product that the certificate will be issued to, and the farm name from where the product came from should also be chosen. You can also upload photos as proof of quality, and then have to select the template which was defined through the configs portal. Once the certificate is issued, its information will be displayed at the ‘Safety Card’ of the consumer app.
+
+Learn more : Certificates-Tracified Admin
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/K7TWHqt/fo20.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/BsWWb2L/fo30.jpg"", ""title"": """"}]",[]
+Field Officer App - Update Master Data,https://help.tracified.com/docs/FOapp/upadteMasterData,"Update Master Data
+
+Master data can be automatically updated once clicked on this option in the navigation menu.
+
+ 
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/Jj9Y1fH/fo31.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/pP5mV6d/fo32.jpg"", ""title"": """"}]",[]
+Field Officer App - Other,https://help.tracified.com/docs/FOapp/Field%20Officer%20App,"Other
+Special Operations#
+
+ 
+
+Logout#
+
+By tapping on the ‘Logout’ option, you can conclude the use of FO app and can login again with the correct credentials whenever required.
+
+Language Selection#
+
+Tracified supports various languages including English, Sinhala, Tamil and many more. The preferred language can be chosen from the options given.","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/stLYTm0/fo21.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/gWPqdbZ/fo23.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/47C8vQq/fo33.jpg"", ""title"": """"}]",[]
+Wallet App - Intro,https://help.tracified.com/docs/WalletApp/Installation,"Intro
+
+create Blockchain account Change of Custody User settings
+
+Tracified Wallet Application Release
+
+Tracified Wallet app is a mobile application used specifically for Blockchain related asset transactions. Using this app, users can store and access all their assets in one place. A user can sign in, create a Blockchain account, perform a change of custody and accept or reject change of custody requests. User settings and application permissions can also be configured through this application.
+
+Transfer the APK given to the phone storage and click on it.
+
+
+
+
+You can select the ‘Install’ option and press ‘Done’ once the process is over.
+
+ 
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/4mM9Y9t/wall1.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/tzKQNb6/wall2.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/PtPQ6T2/wall3.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/4tFPx1P/wall4.png"", ""title"": """"}]",[]
+Wallet App - Sign In,https://help.tracified.com/docs/WalletApp/SignIn,"Sign In
+
+create Blockchain account
+
+Enter the email associated with the account as the username.
+
+Provide the account password and press on the ‘Login’ button.
+
+You will be redirected to the next Blockchain account creation page if this is your initial login. If not, you will be redirected to the home page.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/M8PXTjz/wall5.jpg"", ""title"": """"}]",[]
+Wallet App - Create Blockchain Account,https://help.tracified.com/docs/WalletApp/CreateBlockchain,"Create Blockchain Account
+WHAT ARE BLOCKCHAIN ACCOUNTS?
+
+A mandatory requirement is for the wallet users to create their own Blockchain accounts. From here you can create multiple Blockchain accounts and a private and public key is generated for them for each account from which they could do their transactions.
+
+Since Wallet is directly connected with Blockchain, it is mandatory to create a Blockchain account for each Wallet user.
+
+After the initial login, you must create a Blockchain account by entering an account name and a password for transactions.
+
+You will see a pop up containing the secret key of your account. Copy the key and keep it in a safe place and press ‘OK’. You will now be redirected to the main page of the application.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/grpfpzs/wall6.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/dKy0wNF/wall7.jpg"", ""title"": """"}]",[]
+Wallet App - Change of Custody,https://help.tracified.com/docs/WalletApp/ChangeOfCustody,"Change of Custody
+WHAT IS CHANGE OF CUSTODY (COC) AND HOW CAN I INITIATE IT?
+
+Ability to send items to another account. You will be able to scan the code or enter the identifier and perform a ‘Transfer’ to the receiver’s account name by selecting any item available.
+
+HOW CAN I VIEW MY CHANGE OF CUSTODY REQUESTS?
+
+You will be able to view the lists of the current CoC requests so that a detailed view will be available to them to view their past transactions.
+
+Send Items (Transfer)#
+
+Once you select the ‘Transfer’ tab, you can see a list of items that you have access to use. The asset code (item name) and the amount (quantity) is displayed here as well.
+
+To send these assets to another account, you need to tap on one item and that will redirect to a form in which you have to enter the transfer details.
+
+Add image#
+
+Each real world item/ product is represented by an asset in the Tracified Wallet. You can enter the identifier of the product or you can scan it’s QR / barcode. You can scan one or many identifiers under one specific asset to perform a ‘Transfer’ transaction.
+
+
+
+
+You have to enter the asset amount that you want to transfer under ‘Quantity’ and the ‘Receiver Account Name’.
+
+After entering the name, if it's valid it will show their account name on the pop up screen with an option to select.
+
+You can set a time-bound validity as well.
+
+This will ensure that you want the receiver to respond to this within a given period of time. If they don’t accept or reject your request within the set time period it will automatically get expired.
+
+Once you fill in all fields click on the ‘Transfer’ button. Then you will see a pop up window asking you to enter the Blockchain Password.
+
+Sent Items#
+
+To go to the ‘Sent Items’ page tap on the button at the lower bar of the home screen.
+
+Here you will see all the details of the already sent items, the status (accepted, pending or rejected) and their validity period as well.
+
+Received Items#
+
+The received items can be viewed through the ‘Received’ option at the bottom bar of the screen.
+
+You will get notified in the app when you receive any item to your account.
+
+In received items, you can view each transfer and their request status, asset code, asset amount, sender details and the validity period as well.
+
+You can either accept or reject this request before it expires. Until that period, it will be in the ‘Pending’ state.
+
+Once you click accept or reject it will ask you to enter your Blockchain password to confirm the action and once it's validated, the rest of the process will be executed.
+
+Accepting an Item#
+
+Tracified Field Officer App- Split/Merge
+
+If you accept the received items, you will get a pop-up window asking whether you want to perform a split operation.
+
+By clicking the split button, you can open the Field Officer application and complete the respective split operation. (Refer ‘Split Items’ in Field Officer Application User Manual)
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/Jd7PPq6/CoC.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/JsfpQ79/wall8.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/pzmgY9s/wall9.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/xLbmVsF/wall10.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/Jr4VXnG/wall11.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/jr39trY/wall12.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/jw6yTfy/wall13.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/dQmGVL8/wall14.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/znPXFtX/wall16.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/jr39trY/wall12.png"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/c6BJBmS/wall18.jpg"", ""title"": """"}]",[]
+Wallet App - Change User Details,https://help.tracified.com/docs/WalletApp/ChangeUserDetails,"Change User Details
+HOW ARE USERS MANAGED?
+
+Multiple accounts can be managed through the Wallet App and you can choose the default account and retrieve the change of custody details of that account. Also, you are able to check the account funds for each of your accounts which will be displayed in Lumens.
+
+To change user details go to the Settings page using the side menu.
+
+Profile Picture#
+
+You can change the picture by pressing the “Change” button right below the profile image. Then you can either upload a picture from your gallery or you can take one using the camera and upload.
+
+Once completed, you will see the updated image and you can choose to save or cancel the image.
+
+If you select “Save” your image will be uploaded and the changes will be saved immediately.
+
+Display Name#
+
+Press the edit icon button right next to the name.
+
+Then you can type in the new name and submit changes.
+
+Account Password#
+
+Press the edit icon button right next to the password field.
+
+Then you have to type the current password for the account.
+
+You can then pick your new password and confirm it by typing the same password again.
+
+Once it is done, you can submit the changes.
+
+NOTE
+
+If the password change is successful, you will be automatically logged out from the account and you can log back in with the new password. You will have to remember the new password or can save it somewhere else for future use.
+
+Transaction Password#
+This is the password which is associated with your transaction account.
+You will have to create this password at the point of creating a new transaction account.
+This password will be used to encrypt the “Secret key” associated with the user's transaction account.
+It is advised to use a strong password in order to keep the private key safely.
+You will be asked to provide this password when you perform operations such as data adding, transferring stages, splitting, merging and connecting identifiers.
+Once you provide this password, you will not be asked to provide this again for the next 4 hours.
+However, if you close the app or log out from the app, you will be asked again to provide this password when performing an operation.
+
+Secret Key - Secret key will be used to generate a key pair which will be used to sign each transaction like data adding, transferring stages, splitting, merging and connecting identifiers.
+
+Changing Transaction Password#
+
+Press the edit icon button right next to the transaction password field.
+
+Then you will have to type the current password for the transaction account.
+
+You can then insert your new password and confirm it by typing the same password again. Once it is done, you can submit the changes.
+
+You can use the new password from the next transaction onwards. You will have to remember the new password or can save it somewhere else for future use.
+
+ WHAT IF I ENTER A WRONG TRANSACTION PASSWORD?
+
+If you enter an incorrect password, you will be given the option to change your password by pressing the “Forgot Password” button.
+
+Then you will have to enter the secret key which you stored in a safe place when creating the transaction account.
+
+If the secret key is correct you will be asked to provide a new password for the transaction account.
+
+If the password change is successful, you will be able to use the new password immediately.
+
+Is this page useful?","[{""media_type"": ""Image"", ""url"": ""https://i.ibb.co/61DMnfZ/wall19.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/vmZn9GK/wall20.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/68F77XH/wall20-1.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/r7WBrC6/wall21.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/Btcj95M/wall22.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/2v5PMwJ/wall23.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/0XvCDvj/wall24.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/tQ28dwx/wall25.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/mT0dyTk/wall26.jpg"", ""title"": """"}, {""media_type"": ""Image"", ""url"": ""https://i.ibb.co/phBTL3J/wall27.jpg"", ""title"": """"}]",[]
